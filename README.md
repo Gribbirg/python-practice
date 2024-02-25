@@ -20,6 +20,9 @@
     * Практическое занятие:
       [gh](https://github.com/true-grue/kispython/blob/main/pract2.ipynb)
       [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract2.ipynb)
+      * Решение:
+        [gh](https://github.com/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
+        [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
 
 ## Дополнительные задачи
 
