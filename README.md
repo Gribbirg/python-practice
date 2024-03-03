@@ -24,6 +24,14 @@
         [gh](https://github.com/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
         [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
 
+1. Организация программ
+
+    * Лекция:
+    [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/lect3.ipynb)
+    * Практическое занятие:
+    [gh](https://github.com/true-grue/kispython/blob/main/pract3.ipynb)
+    [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract3.ipynb)
+
 ## Дополнительные задачи
 
 * Машины экстремального обучения:
