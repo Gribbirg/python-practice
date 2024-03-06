@@ -2,7 +2,7 @@ from v1 import main as main1
 from v2 import main as main2
 from v3 import main as main3
 from v4 import main as main4
-# from v5 import main as main5
+from v5 import main as main5
 
 
 def test(main):
@@ -21,4 +21,4 @@ if __name__ == '__main__':
     test(main2)
     test(main3)
     test(main4)
-    # test(main5)
+    test(main5)
