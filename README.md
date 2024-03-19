@@ -1,6 +1,6 @@
 # Программирование на языке Python
 
-Выполненные практики.
+Выполненные практики: [myworks](./myworks)
 
 1. Введение
 
@@ -20,17 +20,20 @@
     * Практическое занятие:
       [gh](https://github.com/true-grue/kispython/blob/main/pract2.ipynb)
       [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract2.ipynb)
-      * Решение:
-        [gh](https://github.com/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
-        [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
+        * Решение:
+          [gh](https://github.com/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
+          [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
 
-1. Организация программ
+3. Организация программ
 
     * Лекция:
-    [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/lect3.ipynb)
+      [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/lect3.ipynb)
     * Практическое занятие:
-    [gh](https://github.com/true-grue/kispython/blob/main/pract3.ipynb)
-    [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract3.ipynb)
+      [gh](https://github.com/true-grue/kispython/blob/main/pract3.ipynb)
+      [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract3.ipynb)
+        * Решение:
+          [gh](https://github.com/Gribbirg/python-practice/blob/main/myworks/practice/pract3/sol3.ipynb)
+          [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract3/sol3.ipynb)
 
 ## Дополнительные задачи
 
