@@ -35,6 +35,14 @@
           [gh](https://github.com/Gribbirg/python-practice/blob/main/myworks/practice/pract3/sol3.ipynb)
           [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract3/sol3.ipynb)
 
+1. Объектно-ориентированное программирование
+
+    * Лекция:
+    [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/lect4.ipynb)
+    * Практическое занятие:
+    [gh](https://github.com/true-grue/kispython/blob/main/pract4.ipynb)
+    [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract4.ipynb)
+
 ## Дополнительные задачи
 
 * Машины экстремального обучения:
