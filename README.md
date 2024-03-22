@@ -10,7 +10,7 @@
       [gh](https://github.com/true-grue/kispython/blob/main/pract1.ipynb)
       [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract1.ipynb)
         * Решение:
-          [gh](https://github.com/Gribbirg/python-practice/blob/main/myworks/practice/pract1/sol1.ipynb)
+          [gh](myworks/practice/pract1/sol1.ipynb)
           [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract1/sol1.ipynb)
 
 2. Простые скрипты
@@ -21,7 +21,7 @@
       [gh](https://github.com/true-grue/kispython/blob/main/pract2.ipynb)
       [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract2.ipynb)
         * Решение:
-          [gh](https://github.com/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
+          [gh](myworks/practice/pract2/sol2.ipynb)
           [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract2/sol2.ipynb)
 
 3. Организация программ
@@ -32,16 +32,19 @@
       [gh](https://github.com/true-grue/kispython/blob/main/pract3.ipynb)
       [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract3.ipynb)
         * Решение:
-          [gh](https://github.com/Gribbirg/python-practice/blob/main/myworks/practice/pract3/sol3.ipynb)
+          [gh](myworks/practice/pract3/sol3.ipynb)
           [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract3/sol3.ipynb)
 
-1. Объектно-ориентированное программирование
+4. Объектно-ориентированное программирование
 
     * Лекция:
     [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/lect4.ipynb)
     * Практическое занятие:
     [gh](https://github.com/true-grue/kispython/blob/main/pract4.ipynb)
     [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract4.ipynb)
+      * Решение:
+        [gh](myworks/practice/pract4/sol4.ipynb)
+        [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract4/sol4.ipynb)
 
 ## Дополнительные задачи
 
