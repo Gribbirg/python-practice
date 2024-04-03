@@ -38,13 +38,13 @@
 4. Объектно-ориентированное программирование
 
     * Лекция:
-    [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/lect4.ipynb)
+      [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/lect4.ipynb)
     * Практическое занятие:
-    [gh](https://github.com/true-grue/kispython/blob/main/pract4.ipynb)
-    [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract4.ipynb)
-      * Решение:
-        [gh](myworks/practice/pract4/sol4.ipynb)
-        [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract4/sol4.ipynb)
+      [gh](https://github.com/true-grue/kispython/blob/main/pract4.ipynb)
+      [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract4.ipynb)
+        * Решение:
+          [gh](myworks/practice/pract4/sol4.ipynb)
+          [co](https://colab.research.google.com/github/Gribbirg/python-practice/blob/main/myworks/practice/pract4/sol4.ipynb)
 
 ## Дополнительные задачи
 
@@ -54,3 +54,7 @@
 * Матричные операции:
   [gh](https://github.com/true-grue/kispython/blob/main/contrib/matrices.ipynb)
   [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/contrib/matrices.ipynb)
+* Хаотические отображения:
+  [gh](https://github.com/true-grue/kispython/blob/main/contrib/chaos.ipynb)
+  [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/contrib/chaos.ipynb)
+
