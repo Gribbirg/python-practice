@@ -1,5 +1,7 @@
 from v1 import main as main1
 from v2 import main as main2
+from v3 import main as main3
+# from v4 import main as main4
 
 
 def test(main):
@@ -14,3 +16,5 @@ def test(main):
 if __name__ == '__main__':
     test(main1)
     test(main2)
+    test(main3)
+    # test(main4)
